@@ -1,2 +1,2 @@
 # my_printf
-Rework of printf function in C.
+Rework of printf function in C
